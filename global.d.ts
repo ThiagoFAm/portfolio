@@ -288,7 +288,7 @@ interface ThemeConfig {
   /**
    * Default theme
    */
-  defaultTheme?: string;
+  darkTheme?: string;
 
   /**
    * Hides the switch in the navbar
@@ -308,7 +308,7 @@ interface ThemeConfig {
   /**
    * Available themes
    */
-  themes?: Array<string>;
+  dark?: Array<string>;
 }
 
 interface Config {
