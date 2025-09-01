@@ -89,7 +89,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'Instituto de Pesquisas Eldorado',
-      position: 'Estágiario',
+      position: 'Estágiario - Analista de integração de software',
       from: 'Janeiro 2024',
       to: 'Present',
       companyLink: 'https://www.eldorado.org.br/unidade/manaus-am/',
@@ -153,7 +153,8 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light'
+      'light',
+      'lofi'
     ],
   },
 
